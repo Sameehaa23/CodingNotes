@@ -21,19 +21,19 @@ import UIKit
 //
 //func walkDog(numberofDogs : Int) {
 //print("there are \(numberofDogs) dogs in the house")
-//    walkDog(numberofDogs : 15)
+//walkDog(numberofDogs : 15)
 //}
 //
 //func hello(name : String) {
 //    print("Hello \(name)")
 //}
-
+//
 //func walkDogs(numberofDogs : Int) {
 //var LengthofWalk = numberofDogs * 15
 //return LengthofWalk
 //}
 //walkDogs(numberofDogs : 4)
-
+//
 //func cleanRoom() {
 //print("pick up things off the ground")
 //print("Vacuum the floor")
@@ -46,13 +46,14 @@ import UIKit
 //print("Dust the room in \time")
 //}
 //cleanRoom(time : 20)
-
 //func Pizza() {
 //print("I want a pizza with black olives")
 //}
-//
 //var olives = "olives"
 //func Pizza (Toppings : 4) {
 //print("I want\(olives) on 4 slices of my pizza")
-//}
+
+
+    
+
 
